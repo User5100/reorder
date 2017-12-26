@@ -1,0 +1,2 @@
+export const LOAD_TAGS = 'LOAD_TAGS'
+export const UPDATE_ORDER_OF_TAGS = 'UPDATE_ORDER_OF_TAGS'
